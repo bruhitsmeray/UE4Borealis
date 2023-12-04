@@ -1,6 +1,6 @@
 # UE4Borealis
 
-UE4Borealis contains the theme developed and used by Project Borealis in their fork of Unreal Engine (4.27). I quite like it and I wanted to use it with my regular version of UE4. I'll leave this repo public in case anyone wants to try it out too.
+UE4Borealis contains the theme used by Project Borealis in their fork of Unreal Engine (4.27). I quite like it and I wanted to use it with my regular version of UE4. I'll leave this repo public in case anyone wants to try it out too.
 
 ## Instalation
 
